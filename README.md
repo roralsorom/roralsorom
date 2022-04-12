@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @roralsorom
-- 👀 I’m interested in Python Discord Lazania many other things
+- 👀 I’m interested in Python Discord
 - 🌱 I’m currently how to be a god at fortnite
-- 💞️ I’m looking to collaborate on Discord in python prooject
-- 📫 How to reach me https://github.com/roralsorom
+- 💞️ I’m looking to collaborate on Discord related projects.
+- 📫 How to reach me Discord Id: 929023092842459136
 
 <!---
 roralsorom/roralsorom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
