@@ -1,3 +1,4 @@
+![](https://discord.c99.nl/widget/theme-2/929023092842459136.png)
 <h1 align="center">Hi 👋, I'm roralslrom</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
