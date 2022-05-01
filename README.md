@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/exe funny gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="exe funny gamer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtRTfYW2dAINYAdSxXpmYYQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="exe funny gamer" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RMvPAqP5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RMvPAqP5" height="30" width="40" /></a>
 </p>
 
