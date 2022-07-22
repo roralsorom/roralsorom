@@ -1,3 +1,6 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/971417463008940112?borderRadius=20px&bg=1c1c1c&idleMessage=Botting%20your%20Mom)](https://discord.com/users/971417463008940112)
+
+
 ![](https://discord.c99.nl/widget/theme-1/971417463008940112.png)
 <h1 align="center">Hi 👋, I'm roralslrom</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
